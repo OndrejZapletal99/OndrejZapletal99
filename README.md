@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ondrej Zapletal
 - 👀 I’m interested in:
--      data analysis, excel, SQL, PowerBi
+-      Data analysis, Excel, SQL, PowerBi
 - 🌱 I’m currently:
 -     learning basic of SQL and PowerBi
 - 💞️ I’m looking to:
