@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
 -      Data analysis, Excel, SQL, PowerBi
 - 🌱 I’m currently:
--     learning basic of Python
+-     learning basic of SQL and PowerBi
 - 💞️ I’m looking to:
 -     collaborate on some case studies or portfolio project. I would like to practice my basic skills and learn new.
 - 📫 How to reach me:
